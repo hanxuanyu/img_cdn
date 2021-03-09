@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="buyTicket:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/buyTicket_jar</output-path>
+    <root id="archive" name="buyTicket.jar">
+      <element id="module-output" name="buyTicket" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/gson-2.8.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jacob.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/okhttp-3.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/okio-1.9.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
